@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Raihan Suciadi</h1>
 
-<!--
-**raihansuciadi/raihansuciadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Student | 🌱 Learning Programming | 🇮🇩 Indonesia
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Student at Nusa Putra University
+- 💻 Interested in Web Development
+- 🌱 Currently learning HTML, CSS, JavaScript, PHP
+- 📫 Email: muhammad.ar_si25@nusaputra.ac.id
+
+---
+
+## 🛠️ Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=raihansuciadi&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raihansuciadi&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=raihansuciadi&theme=tokyonight)
+
+---
+
+<p align="center">
+Thanks for visiting my profile ❤️
+</p>
