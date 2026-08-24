@@ -13,7 +13,7 @@
 - 🌱 Currently learning HTML, CSS, JavaScript, PHP
 - 📫 Email: muhammad.ar_si25@nusaputra.ac.id
 - Social Media:
-   - Instagram: @_sutjiadii_
+   - Instagram: @_ sutjiadii _
 
 ---
 
